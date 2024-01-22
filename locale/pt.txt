@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_3EFD5883_3140_7CAA_41C2_A141ACE8B636.toolTip = Saida para o elevador
+
+## Media
+
+### Title
+panorama_22D051AA_3141_ECFB_41AF_484513C673E1.label = Banheiro
+panorama_3D970A1C_3140_5FDE_41A3_2EE6A21FF289.label = Lavanderia
+panorama_3D97B53A_3140_55DA_41B0_51C0B504CA6A.label = Quintal
+panorama_3C623AB7_3140_BCE9_41C8_73D5E853E5AD.label = Sacada quarto
+panorama_3D96E38D_3140_6CB9_41A2_3639C5B6D508.label = Sala
+panorama_3D948FD8_3140_B4A6_41BB_61044A5E35FD.label = Suíte
+panorama_23282544_3140_75AF_41BE_EDD495C047EF.label = Suíte_BANHEIRO
+panorama_3D97382C_3140_7BFE_41BE_88895D867B63.label = corredor
+panorama_3D972EED_3140_547E_41B6_3E3A9AACBDC3.label = entrada
+panorama_3D971CC0_3140_74A6_41A9_DE122FAC0068.label = quarta solteiro
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Aroeiras_11_20562
